@@ -1,0 +1,10 @@
+/* .percent-up {
+    color: #14C37D !important;
+  } */
+.percent-down {
+    color: red !important;
+  }
+.in{
+  width: 15px;
+  height: 15px;
+}

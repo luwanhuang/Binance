@@ -1,0 +1,14 @@
+.nevigation{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.search{
+    float: right !important;
+    height: 30px;
+    align-self: center;
+    text-align: right;
+    width: 150px;
+
+}
+
